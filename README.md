@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/coccinella-labs/scout/main/.github/assets/thumbnail.png" alt="scout" width="100%">
+</p>
+
+<p align="center">
   <img src="Assets/Icons/readme-icon.png" width="112" height="112" alt="Scout icon">
 </p>
 
